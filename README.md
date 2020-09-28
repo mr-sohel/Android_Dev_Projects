@@ -1,2 +1,2 @@
 # Android_Dev_Projects
-Apps that i developed.
+Android Apps that i have developed. 
